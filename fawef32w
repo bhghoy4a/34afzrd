@@ -1,0 +1,4 @@
+git clone https://github.com/lammps/lammps.git
+mkdir lammps/build
+cd lammps/build
+cmake ../cmake
